@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Projekat2": {
-      "commandName": "Project",
-      "commandLineArgs": "verySmall.jpg verySmall_sh.jpg"
-    }
-  }
-}
